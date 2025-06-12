@@ -1,0 +1,100 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# JUCE build directories
+Builds/
+**/Builds/
+
+# JUCE library code
+JuceLibraryCode/
+**/JuceLibraryCode/
+
+# Xcode project files
+*.xcodeproj/
+*.xcworkspace/
+xcuserdata/
+
+# Visual Studio project files
+*.sln
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+*.vcxproj.local
+ipch/
+*.sdf
+*.suo
+*.user
+Debug/
+Release/
+x64/
+Win32/
+
+# Qt Creator project files
+*.pro.user
+*.pro.autosave
+*.pro.lock
+
+# Other build artifacts
+*.o
+*.obj
+*.d
+*.lib
+*.so
+*.dylib
+*.dll
+*.pdb
+*.exp
+*.ilk
+*.idb
+*.manifest
+*.app
+*.exe
+*.bundle
+
+# Temporary files
+*.swp
+*.swo
+*~
+*.bak
+*.tmp
+
+# OS Specific files
+.DS_Store
+Thumbs.db
+
+# Cache
+.vscode/
+.idea/
+
+# Other
+*.jucer
